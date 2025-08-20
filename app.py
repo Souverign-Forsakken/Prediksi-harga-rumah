@@ -5,3 +5,7 @@ print("This is a test file.")
 print("Farhan")
 print("coba")
 print("sue ora jamu")
+
+umur = 45
+if umur > 50:
+    print("Kamu asu")
